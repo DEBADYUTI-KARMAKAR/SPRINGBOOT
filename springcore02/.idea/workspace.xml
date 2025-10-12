@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c889d3b8-0034-4096-b547-91660d006852" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../simpleproject-springcore/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simpleproject-springcore/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simpleproject-springcore/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simpleproject-springcore/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simpleproject-springcore/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simpleproject-springcore/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simpleproject-springcore/src/main/java/in/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simpleproject-springcore/src/test/java/in/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_core/spring_core.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/in/myproject/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/in/myproject/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcore03/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcore03/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcore03/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcore03/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcore03/src/main/java/in/sigma/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcore03/src/test/java/in/sigma/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcore05/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcore05/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcore05/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcore05/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcore05/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcore05/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcore05/src/main/java/in/sigma/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcore05/src/test/java/in/sigma/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcoree04/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcoree04/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcoree04/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcoree04/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcoree04/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcoree04/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcoree04/src/main/java/in/sigma/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcoree04/src/test/java/in/sigma/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/CoreJAVA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/untitled1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../journal/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../journal/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../journal/src/main/java/com/example/journal/entity/JournalEntry.java" beforeDir="false" afterPath="$PROJECT_DIR$/../journal/src/main/java/com/example/journal/entity/JournalEntry.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;DEBADYUTI-KARMAKAR&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/DEBADYUTI-KARMAKAR/SPRINGBOOT.git&quot;,
+    &quot;accountId&quot;: &quot;18ad8ed4-7c67-4bbd-aa2d-26c11dc7da2e&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="323YwT2ponFfq8tuKTpcIj0Zq2L" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c889d3b8-0034-4096-b547-91660d006852" name="Changes" comment="" />
+      <created>1756650964501</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1756650964501</updated>
+    </task>
+    <servers />
+  </component>
+</project>
