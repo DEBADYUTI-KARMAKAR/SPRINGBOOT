@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springcoree04" />
+        <module name="springcore03" />
+        <module name="springcore02" />
+        <module name="springcore08" />
+        <module name="jurnalAppDemo" />
+        <module name="journal" />
+        <module name="JournalCrud" />
+        <module name="springcore05" />
+        <module name="springcore04" />
+        <module name="myFirstProject" />
+        <module name="simpleproject-springcore" />
+        <module name="springcore07" />
+        <module name="springcore06" />
+      </profile>
+      <profile name="Annotation profile for springdatajpa-first" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.30/lombok-1.18.30.jar" />
+        </processorPath>
+        <module name="Data_JPA_CRUD_App" />
+        <module name="bccitickets" />
+        <module name="crudapp" />
+        <module name="FirstRestApi" />
+        <module name="springdatajpa-first" />
+        <module name="RestApiProject" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Data_JPA_CRUD_App" options="-parameters" />
+      <module name="FirstRestApi" options="-parameters" />
+      <module name="JournalCrud" options="-parameters" />
+      <module name="RestApiProject" options="-parameters" />
+      <module name="bccitickets" options="-parameters" />
+      <module name="crudapp" options="-parameters" />
+      <module name="journal" options="-parameters" />
+      <module name="jurnalAppDemo" options="-parameters" />
+      <module name="myFirstProject" options="-parameters" />
+      <module name="springdatajpa-first" options="-parameters" />
+    </option>
+  </component>
+</project>

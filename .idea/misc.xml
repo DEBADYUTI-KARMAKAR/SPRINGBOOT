@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/crudapp/pom.xml" />
+        <option value="$PROJECT_DIR$/journal/pom.xml" />
+        <option value="$PROJECT_DIR$/bccitickets/pom.xml" />
+        <option value="$PROJECT_DIR$/JournalCrud/pom.xml" />
+        <option value="$PROJECT_DIR$/FirstRestApi/pom.xml" />
+        <option value="$PROJECT_DIR$/springcore02/pom.xml" />
+        <option value="$PROJECT_DIR$/springcore03/pom.xml" />
+        <option value="$PROJECT_DIR$/springcore04/pom.xml" />
+        <option value="$PROJECT_DIR$/springcore05/pom.xml" />
+        <option value="$PROJECT_DIR$/springcore06/pom.xml" />
+        <option value="$PROJECT_DIR$/springcore07/pom.xml" />
+        <option value="$PROJECT_DIR$/springcore08/pom.xml" />
+        <option value="$PROJECT_DIR$/jurnalAppDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/springcoree04/pom.xml" />
+        <option value="$PROJECT_DIR$/myFirstProject/pom.xml" />
+        <option value="$PROJECT_DIR$/RestApiProject/pom.xml" />
+        <option value="$PROJECT_DIR$/Data_JPA_CRUD_App/pom.xml" />
+        <option value="$PROJECT_DIR$/springdatajpa-first/pom.xml" />
+        <option value="$PROJECT_DIR$/simpleproject-springcore/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
